@@ -80,6 +80,7 @@ class _ArticleState extends State<Article> {
                   );
                 },
               ),
+              SizedBox(height: 100)
             ],
           ),
         ),
