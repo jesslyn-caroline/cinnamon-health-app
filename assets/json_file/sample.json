@@ -2,7 +2,9 @@
     {
       "id" : 1,
       "img" : "img/article-1.jpeg",
-      "title" : "The Importance of Balanced Diet in Maintaining Long-Term Health",
+      "dateCreated" : "2025-03-21",
+      "title" : "Balanced Diet in Maintaining Long-Term Health",
+      "description" : "A balanced diet supports overall health, while processed foods raise risks. Healthy eating and exercise promote well-being and weight management.",
       "article" : [
         "In today's fast-paced world, maintaining a balanced diet has become increasingly important for preserving long-term health. With an abundance of food options, many of which are processed and high in sugar, salt, and unhealthy fats, it's easy to lose sight of what truly nourishes the body. However, understanding the role of nutrition can make all the difference in achieving a healthy lifestyle.",
         "A balanced diet is one that includes a variety of nutrients from different food groups, which are essential for the body's functioning. These include carbohydrates, proteins, fats, vitamins, and minerals. Each of these plays a unique role in ensuring the body operates at its best. Carbohydrates serve as the body's primary energy source and are found in foods like grains, fruits, and vegetables. Proteins are important for muscle repair and immune function, and can be found in lean meats, legumes, and dairy products. Fats, especially healthy fats, are necessary for brain health and energy storage, with sources such as nuts, seeds, and avocados. Vitamins and minerals, found in a wide range of fruits and vegetables, are vital for various bodily functions, from supporting bone health to boosting the immune system.",
@@ -15,7 +17,9 @@
     {
       "id" : 2,
       "img" : "img/article-2.jpg",
-      "title" : "The Power of Regular Exercise in Enhancing Mental and Physical Well-being",
+      "dateCreated" : "2025-03-19",
+      "title" : "Enhancing Mental and Physical Well-being By Exercising Regularly",
+      "description" : "Regular exercise enhances health, boosts mood, strengthens the body, and improves brain function.",
       "article" : [
         "In the modern world, where stress levels are rising and sedentary lifestyles have become the norm, regular exercise is one of the most effective ways to enhance both physical and mental health. While many people view exercise as a way to maintain a fit body, its benefits go far beyond weight management. A consistent workout routine has the power to boost mood, reduce anxiety, improve brain function, and increase overall life satisfaction.",
         "Physical health is perhaps the most obvious benefit of exercise. Engaging in regular physical activity strengthens the heart, improves lung capacity, and boosts circulation. It helps regulate blood pressure, lowers the risk of chronic conditions like diabetes and cardiovascular diseases, and contributes to healthy weight maintenance. Exercise also strengthens muscles and bones, which reduces the risk of osteoporosis and enhances flexibility, balance, and coordination.",
@@ -30,7 +34,9 @@
     {
       "id" : 3,
       "img" : "img/article-3.jpeg",
+      "dateCreated" : "2025-03-15",
       "title" : "The Importance of Hydration for Overall Health",
+      "description" : "Staying hydrated supports digestion, temperature regulation, and energy, keeping the body functioning well.",
       "article" : [
         "Staying hydrated is essential for maintaining good health, yet it’s often overlooked in our daily routines. Water makes up about 60% of our body weight and plays a crucial role in nearly every bodily function. From regulating body temperature to aiding digestion and supporting joint health, water is a key element for optimal performance.",
         "Drinking water isn’t the only way to stay hydrated—fruits and vegetables, such as watermelon, cucumber, and oranges, also contribute to your hydration levels. It's important to listen to your body and drink water throughout the day, especially when you're feeling thirsty or after physical activity.",
@@ -40,7 +46,9 @@
     {
       "id" : 4,
       "img" : "img/article-4.jpg",
+      "dateCreated" : "2025-03-17",
       "title" : "How Your Gut Health Affects Everything You Do",
+      "description" : "Your gut affects mood, immunity, and digestion. Keep it healthy with fiber, probiotics, and hydration.",
       "article" : [
         "Did you know your gut is often referred to as your 'second brain'? It's true! The health of your gut impacts much more than just digestion — it plays a major role in your mood, immune system, and even your skin health. With over 100 trillion bacteria living in your digestive system, your gut is a powerhouse that influences your overall well-being in ways you might not realize.",
         "When your gut is healthy, it works like a well-oiled machine. It absorbs nutrients from your food, produces essential vitamins, and sends signals to your brain that can elevate your mood. But when things go awry — like when you have an imbalance of good and bad bacteria — you may experience bloating, fatigue, skin flare-ups, or even anxiety. The connection between your gut and brain, known as the gut-brain axis, is so strong that a stressed-out gut can actually lead to mental health issues like depression or anxiety.",
@@ -51,7 +59,9 @@
     {
       "id" : 5,
       "img" : "img/article-5.png",
+      "dateCreated" : "2025-03-19",
       "title" : "Why Sleep is Your Superpower for Better Health",
+      "description" : "Sleep boosts memory, immunity, mood, and health. Prioritize quality rest for overall well-being.",
       "article" : [
         "We often hear that sleep is important, but did you know it's actually your secret weapon for good health? It’s not just about resting — sleep is a powerful process that affects everything from your memory to your immune system. In fact, sleep plays such a vital role that it’s as important to your health as eating nutritious food and exercising regularly.",
         "When you sleep, your body doesn't just 'switch off.' It’s busy repairing tissues, strengthening the immune system, and even boosting your mood. During deep sleep, your brain processes the information from the day, consolidating memories and improving learning. Without enough sleep, you’re more likely to feel stressed, forgetful, and sluggish.",
@@ -63,7 +73,9 @@
     {
       "id" : 6,
       "img" : "img/article-6.jpg",
+      "dateCreated" : "2025-03-29",
       "title" : "The Power of Superfoods: Fuel Your Body with Nature’s Best",
+      "description" : "Superfoods fuel your body, boost energy, and protect health. Add them to meals for lasting benefits!",
       "article" : [
         "Ever wonder why some foods are called 'superfoods'? It’s because they pack a punch when it comes to nutrition and can give your body the boost it needs to feel its best. Superfoods are rich in vitamins, minerals, and antioxidants, which help protect your cells, fight inflammation, and boost energy levels. And the best part? They're delicious and easy to incorporate into your everyday meals.",
         "Take blueberries, for example. These tiny fruits are loaded with antioxidants that protect your body from harmful free radicals. They're also packed with vitamin C, which helps support your immune system. Or how about spinach? It’s not just for Popeye! This leafy green is a powerhouse of iron, vitamin K, and folate, making it fantastic for maintaining healthy bones and skin.",
