@@ -65,16 +65,18 @@ class _ArticleState extends State<Article> {
                 shrinkWrap: true,
                 gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
                   crossAxisCount: 2,
-                  mainAxisSpacing: 10,
-                  crossAxisSpacing: 10,
-                  // childAspectRatio: 1500
+                  mainAxisSpacing: 23,
+                  crossAxisSpacing: 23,
+                  childAspectRatio: 0.75
                 ),
                 itemCount: _items.length,
                 itemBuilder: (context, index) {
                   return ArticleCard(
                     title: _items[index]["title"], 
                     img: _items[index]["img"], 
-                    article: _items[index]["article"]
+                    article: _items[index]["article"],
+                    dateCreated: _items[index]["dateCreated"],
+                    description: _items[index]["description"]
                   );
                 },
               ),
